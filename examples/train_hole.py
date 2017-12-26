@@ -1,7 +1,6 @@
 import config
 import models
-import tensorflow as tf
-import numpy as np
+
 
 con = config.Config()
 #Input training files from benchmarks/FB15K/ folder.

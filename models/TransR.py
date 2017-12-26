@@ -1,7 +1,6 @@
 #coding:utf-8
-import numpy as np
+from models.Model import *
 import tensorflow as tf
-from Model import *
 
 class TransR(Model):
 

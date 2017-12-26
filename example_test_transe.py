@@ -1,8 +1,6 @@
 import config
 import models
-import tensorflow as tf
-import numpy as np
-import json
+
 
 # (1) Set import files and OpenKE will automatically load models via tf.Saver().
 con = config.Config()

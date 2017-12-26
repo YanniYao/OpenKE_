@@ -1,6 +1,5 @@
 import config
 import models
-import tensorflow as tf
 import numpy as np
 
 #Train TransR based on pretrained TransE results.
